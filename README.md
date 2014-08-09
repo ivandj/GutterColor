@@ -19,7 +19,7 @@ brew install imagemagick --with-xz --with-font-config --with-little-cms --with-l
 
 ```json
 {
-  "convert_path" : "/usr/local/bin/convert"
+  "convert_path" : "convert"
 }
 ```
 * For help with either, view [this blog post by Wes Bos](http://wesbos.com/css-gutter-color-sublime-text/)
