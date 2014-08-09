@@ -8,9 +8,9 @@ Gutter Color is a cross-platform Sublime Text plugin which displays a colored ic
 
 * [ImageMagick](http://www.imagemagick.org/)
 
-Install like this
-brew uninstall imagemagick
-brew install imagemagick --with-xz --with-font-config --with-little-cms --with-little-cms2
+Install like this:<br/>
+brew uninstall imagemagick<br/>
+brew install imagemagick --with-xz --with-font-config --with-little-cms --with-little-cms2<br/>
 
 ## Configure
 
